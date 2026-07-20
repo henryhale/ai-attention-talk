@@ -1,0 +1,16 @@
+{
+  "name": "attention-talk",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.2.25",
+    "@slidev/cli": "^52.19.0",
+    "@slidev/theme-default": "^0.25.0",
+    "katex": "^0.18.4"
+  }
+}
